@@ -1,4 +1,4 @@
-# My name is Diana Johnson
+# Hello! My name is Diana Johnson
 
 ## About me 🌻
 - 🏫 My major is Industrial and Systems Engineering
